@@ -1,0 +1,9 @@
+.button-class{
+    background-color: aqua;
+}
+
+.button-border{
+    border-color: black;
+    border-radius: 10%;
+    border-style: dotted;
+}
